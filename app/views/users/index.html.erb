@@ -1,6 +1,6 @@
 <h1>Usuarios y equipos</h1>
 <ul>
 	<% @users.each do |user| %>
-		<li class="userList"><%= user.name %>--<%= user.team %></li>
+		<li class="userList"><p><b class="head">Nombre:</b> <%= user.name %></p><p><b class="head">Equipo:</b> <%= user.team %></p><p><b  class="head">Valora tu viaje:</b> <%= user.opinion %></p></li>
 	<% end %>
 </ul>

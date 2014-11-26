@@ -2,13 +2,19 @@
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
 .fondo {
-	background-image: url('fondoo.jpg');
-	background-repeat: none;
 	background-size: 100%;
+	background-image: url(campo.jpeg);
 	height: 740px;
 }
 .title {
 	color: white;
 	font-size: 50px;
 	text-align: center;
+}
+.link {
+	width: 300px;
+	font-size: 30px;
+	color: white;
+	margin: 0 auto;
+	margin-left: 500px;
 }

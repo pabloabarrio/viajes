@@ -1,5 +1,11 @@
 Rails.application.routes.draw do
+  get 'trips/index', as: 'trips'
+
+  devise_for :users
+  get '/visits' => 'visits#new'
+
   get '/users' => 'users#index'
+  get '/users/new' => 'users#new'
 
   root 'static_pages#home'
 end
