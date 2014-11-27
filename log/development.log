@@ -8621,3 +8621,2330 @@ Started GET "/assets/visits.js?body=1" for 127.0.0.1 at 2014-11-26 17:49:20 +010
 
 
 Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-11-26 17:49:20 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2014-11-27 11:31:47 +0100
+  [1m[36mActiveRecord::SchemaMigration Load (0.0ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (44.0ms)
+Completed 200 OK in 917ms (Views: 832.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-11-27 11:31:48 +0100
+
+
+Started GET "/assets/trips.css?body=1" for 127.0.0.1 at 2014-11-27 11:31:48 +0100
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-11-27 11:31:48 +0100
+
+
+Started GET "/assets/visits.css?body=1" for 127.0.0.1 at 2014-11-27 11:31:48 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-11-27 11:31:48 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-27 11:31:48 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-27 11:31:48 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-11-27 11:31:48 +0100
+
+
+Started GET "/assets/trips.js?body=1" for 127.0.0.1 at 2014-11-27 11:31:48 +0100
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-11-27 11:31:48 +0100
+
+
+Started GET "/assets/visits.js?body=1" for 127.0.0.1 at 2014-11-27 11:31:48 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-11-27 11:31:49 +0100
+
+
+Started GET "/assets/campo.jpeg" for 127.0.0.1 at 2014-11-27 11:31:49 +0100
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2014-11-27 11:31:55 +0100
+Processing by Devise::SessionsController#new as HTML
+  Rendered devise/shared/_links.html.erb (2.0ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (795.0ms)
+Completed 200 OK in 1248ms (Views: 1151.1ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-11-27 11:31:57 +0100
+
+
+Started GET "/assets/trips.css?body=1" for 127.0.0.1 at 2014-11-27 11:31:57 +0100
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-11-27 11:31:57 +0100
+
+
+Started GET "/assets/visits.css?body=1" for 127.0.0.1 at 2014-11-27 11:31:57 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-27 11:31:57 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-11-27 11:31:57 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-27 11:31:57 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-11-27 11:31:57 +0100
+
+
+Started GET "/assets/trips.js?body=1" for 127.0.0.1 at 2014-11-27 11:31:57 +0100
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-11-27 11:31:57 +0100
+
+
+Started GET "/assets/visits.js?body=1" for 127.0.0.1 at 2014-11-27 11:31:57 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-11-27 11:31:57 +0100
+  [1m[36mUser Load (15.6ms)[0m  [1mSELECT "users".* FROM "users"[0m
+  [1m[35mUser Load (0.0ms)[0m  SELECT  "users".* FROM "users"   ORDER BY "users"."id" DESC LIMIT 1
+
+
+Started GET "/users/sign_up" for 127.0.0.1 at 2014-11-27 11:44:15 +0100
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/shared/_links.html.erb (1.0ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (10.0ms)
+Completed 200 OK in 173ms (Views: 171.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-11-27 11:44:15 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-27 11:44:15 +0100
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-11-27 11:44:15 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-11-27 11:44:15 +0100
+
+
+Started GET "/assets/trips.css?body=1" for 127.0.0.1 at 2014-11-27 11:44:15 +0100
+
+
+Started GET "/assets/visits.css?body=1" for 127.0.0.1 at 2014-11-27 11:44:15 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-27 11:44:15 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-11-27 11:44:15 +0100
+
+
+Started GET "/assets/trips.js?body=1" for 127.0.0.1 at 2014-11-27 11:44:15 +0100
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-11-27 11:44:15 +0100
+
+
+Started GET "/assets/visits.js?body=1" for 127.0.0.1 at 2014-11-27 11:44:15 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-11-27 11:44:15 +0100
+
+
+Started GET "/users/sign_up" for 127.0.0.1 at 2014-11-27 11:54:59 +0100
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/shared/_links.html.erb (1.0ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (24.0ms)
+Completed 200 OK in 198ms (Views: 193.0ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-27 11:54:59 +0100
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-11-27 11:54:59 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-11-27 11:55:00 +0100
+
+
+Started GET "/assets/visits.css?body=1" for 127.0.0.1 at 2014-11-27 11:55:00 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-11-27 11:55:00 +0100
+
+
+Started GET "/assets/trips.css?body=1" for 127.0.0.1 at 2014-11-27 11:55:00 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-27 11:55:00 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-11-27 11:55:00 +0100
+
+
+Started GET "/assets/trips.js?body=1" for 127.0.0.1 at 2014-11-27 11:55:00 +0100
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-11-27 11:55:00 +0100
+
+
+Started GET "/assets/visits.js?body=1" for 127.0.0.1 at 2014-11-27 11:55:00 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-11-27 11:55:00 +0100
+
+
+Started GET "/users/sign_up" for 127.0.0.1 at 2014-11-27 11:55:16 +0100
+
+SyntaxError (C:/Users/Asus/Desktop/proyecto/viajes/app/controllers/application_controller.rb:18: syntax error, unexpected ',', expecting keyword_end
+      devise_parameter_sanitizer.for(:sign_up) << :name, :team
+                                                        ^):
+  app/controllers/application_controller.rb:18: syntax error, unexpected ',', expecting keyword_end
+
+
+  Rendered C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/actionpack-4.1.7/lib/action_dispatch/middleware/templates/rescues/_source.erb (1.0ms)
+  Rendered C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/actionpack-4.1.7/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/actionpack-4.1.7/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.0ms)
+  Rendered C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/actionpack-4.1.7/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (126.0ms)
+
+
+Started GET "/users/sign_up" for 127.0.0.1 at 2014-11-27 11:56:08 +0100
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/shared/_links.html.erb (0.0ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (23.0ms)
+Completed 200 OK in 193ms (Views: 189.0ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/assets/trips.css?body=1" for 127.0.0.1 at 2014-11-27 11:56:09 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-11-27 11:56:09 +0100
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-11-27 11:56:09 +0100
+
+
+Started GET "/assets/visits.css?body=1" for 127.0.0.1 at 2014-11-27 11:56:09 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-11-27 11:56:09 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-27 11:56:09 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-27 11:56:09 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-11-27 11:56:09 +0100
+
+
+Started GET "/assets/trips.js?body=1" for 127.0.0.1 at 2014-11-27 11:56:09 +0100
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-11-27 11:56:09 +0100
+
+
+Started GET "/assets/visits.js?body=1" for 127.0.0.1 at 2014-11-27 11:56:09 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-11-27 11:56:09 +0100
+
+
+Started GET "/users/sign_up" for 127.0.0.1 at 2014-11-27 11:56:11 +0100
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/shared/_links.html.erb (0.0ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (8.0ms)
+Completed 200 OK in 140ms (Views: 138.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/visits.css?body=1" for 127.0.0.1 at 2014-11-27 11:56:12 +0100
+
+
+Started GET "/assets/trips.css?body=1" for 127.0.0.1 at 2014-11-27 11:56:12 +0100
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-11-27 11:56:12 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-11-27 11:56:12 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-27 11:56:12 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-11-27 11:56:12 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-27 11:56:12 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-11-27 11:56:12 +0100
+
+
+Started GET "/assets/trips.js?body=1" for 127.0.0.1 at 2014-11-27 11:56:12 +0100
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-11-27 11:56:12 +0100
+
+
+Started GET "/assets/visits.js?body=1" for 127.0.0.1 at 2014-11-27 11:56:12 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-11-27 11:56:12 +0100
+
+
+Started POST "/users" for 127.0.0.1 at 2014-11-27 11:57:45 +0100
+Processing by Devise::RegistrationsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"By2y5AHvgsowV2bgC1zuetlsSutL//3CaGMobMP6BYg=", "user"=>{"name"=>"Marina", "email"=>"marina@marina.com", "team"=>"Ciudad de Murcia", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]"}, "commit"=>"Sign up"}
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mUser Exists (1.0ms)[0m  [1mSELECT  1 AS one FROM "users"  WHERE "users"."email" = 'marina@marina.com' LIMIT 1[0m
+Binary data inserted for `string` type on column `encrypted_password`
+  [1m[35mSQL (1.0ms)[0m  INSERT INTO "users" ("created_at", "email", "encrypted_password", "name", "team", "updated_at") VALUES (?, ?, ?, ?, ?, ?)  [["created_at", "2014-11-27 10:57:46.150537"], ["email", "marina@marina.com"], ["encrypted_password", "$2a$10$UcjsMy1HffRSkbIPw8RACuhBc5aS5OxJ.w9rHGno9XdB.pxCRu6.W"], ["name", "Marina"], ["team", "Ciudad de Murcia"], ["updated_at", "2014-11-27 10:57:46.150537"]]
+  [1m[36m (135.0ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Binary data inserted for `string` type on column `current_sign_in_ip`
+Binary data inserted for `string` type on column `last_sign_in_ip`
+  [1m[36mSQL (3.0ms)[0m  [1mUPDATE "users" SET "current_sign_in_at" = ?, "current_sign_in_ip" = ?, "last_sign_in_at" = ?, "last_sign_in_ip" = ?, "sign_in_count" = ?, "updated_at" = ? WHERE "users"."id" = 5[0m  [["current_sign_in_at", "2014-11-27 10:57:46.305546"], ["current_sign_in_ip", "127.0.0.1"], ["last_sign_in_at", "2014-11-27 10:57:46.305546"], ["last_sign_in_ip", "127.0.0.1"], ["sign_in_count", 1], ["updated_at", "2014-11-27 10:57:46.309546"]]
+  [1m[35m (210.0ms)[0m  commit transaction
+Redirected to http://localhost:3000/trips/index
+Completed 302 Found in 618ms (ActiveRecord: 350.0ms)
+
+
+Started GET "/trips/index" for 127.0.0.1 at 2014-11-27 11:57:46 +0100
+Processing by TripsController#index as HTML
+  [1m[36mTrip Load (1.0ms)[0m  [1mSELECT "trips".* FROM "trips"[0m
+  Rendered trips/index.html.erb within layouts/application (10.0ms)
+  [1m[35mUser Load (0.0ms)[0m  SELECT  "users".* FROM "users"  WHERE "users"."id" = 5  ORDER BY "users"."id" ASC LIMIT 1
+Completed 200 OK in 201ms (Views: 190.0ms | ActiveRecord: 3.0ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-11-27 11:57:46 +0100
+
+
+Started GET "/assets/trips.css?body=1" for 127.0.0.1 at 2014-11-27 11:57:46 +0100
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-11-27 11:57:47 +0100
+
+
+Started GET "/assets/visits.css?body=1" for 127.0.0.1 at 2014-11-27 11:57:47 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-27 11:57:47 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-11-27 11:57:47 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-27 11:57:47 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-11-27 11:57:47 +0100
+
+
+Started GET "/assets/trips.js?body=1" for 127.0.0.1 at 2014-11-27 11:57:47 +0100
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-11-27 11:57:47 +0100
+
+
+Started GET "/assets/visits.js?body=1" for 127.0.0.1 at 2014-11-27 11:57:47 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-11-27 11:57:47 +0100
+  [1m[36mUser Load (0.0ms)[0m  [1mSELECT  "users".* FROM "users"   ORDER BY "users"."id" DESC LIMIT 1[0m
+
+
+Started GET "/trips/index" for 127.0.0.1 at 2014-11-27 12:03:31 +0100
+Processing by TripsController#index as HTML
+  [1m[36mTrip Load (0.0ms)[0m  [1mSELECT "trips".* FROM "trips"[0m
+  Rendered trips/index.html.erb within layouts/application (2.0ms)
+  [1m[35mUser Load (1.0ms)[0m  SELECT  "users".* FROM "users"  WHERE "users"."id" = 5  ORDER BY "users"."id" ASC LIMIT 1
+Completed 200 OK in 158ms (Views: 157.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-11-27 12:03:31 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-27 12:03:31 +0100
+
+
+Started GET "/assets/trips.css?body=1" for 127.0.0.1 at 2014-11-27 12:03:31 +0100
+
+
+Started GET "/assets/visits.css?body=1" for 127.0.0.1 at 2014-11-27 12:03:31 +0100
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-11-27 12:03:31 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-11-27 12:03:32 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-27 12:03:32 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-11-27 12:03:32 +0100
+
+
+Started GET "/assets/trips.js?body=1" for 127.0.0.1 at 2014-11-27 12:03:32 +0100
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-11-27 12:03:32 +0100
+
+
+Started GET "/assets/visits.js?body=1" for 127.0.0.1 at 2014-11-27 12:03:32 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-11-27 12:03:32 +0100
+
+
+Started GET "/trips/index" for 127.0.0.1 at 2014-11-27 12:05:32 +0100
+Processing by TripsController#index as HTML
+  [1m[36mTrip Load (1.0ms)[0m  [1mSELECT "trips".* FROM "trips"[0m
+  Rendered trips/index.html.erb within layouts/application (3.0ms)
+  [1m[35mUser Load (1.0ms)[0m  SELECT  "users".* FROM "users"  WHERE "users"."id" = 5  ORDER BY "users"."id" ASC LIMIT 1
+Completed 200 OK in 154ms (Views: 152.0ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-11-27 12:05:32 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-11-27 12:05:32 +0100
+
+
+Started GET "/assets/trips.css?body=1" for 127.0.0.1 at 2014-11-27 12:05:32 +0100
+
+
+Started GET "/assets/visits.css?body=1" for 127.0.0.1 at 2014-11-27 12:05:33 +0100
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-11-27 12:05:33 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-27 12:05:33 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-27 12:05:33 +0100
+
+
+Started GET "/assets/trips.js?body=1" for 127.0.0.1 at 2014-11-27 12:05:33 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-11-27 12:05:33 +0100
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-11-27 12:05:33 +0100
+
+
+Started GET "/assets/visits.js?body=1" for 127.0.0.1 at 2014-11-27 12:05:33 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-11-27 12:05:33 +0100
+
+
+Started GET "/trips/index" for 127.0.0.1 at 2014-11-27 12:06:43 +0100
+Processing by TripsController#index as HTML
+  [1m[36mTrip Load (1.0ms)[0m  [1mSELECT "trips".* FROM "trips"[0m
+  Rendered trips/index.html.erb within layouts/application (2.0ms)
+  [1m[35mUser Load (1.0ms)[0m  SELECT  "users".* FROM "users"  WHERE "users"."id" = 5  ORDER BY "users"."id" ASC LIMIT 1
+Completed 200 OK in 158ms (Views: 155.0ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-11-27 12:06:43 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-11-27 12:06:43 +0100
+
+
+Started GET "/assets/trips.css?body=1" for 127.0.0.1 at 2014-11-27 12:06:43 +0100
+
+
+Started GET "/assets/visits.css?body=1" for 127.0.0.1 at 2014-11-27 12:06:43 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-27 12:06:44 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-11-27 12:06:44 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-27 12:06:44 +0100
+
+
+Started GET "/assets/trips.js?body=1" for 127.0.0.1 at 2014-11-27 12:06:44 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-11-27 12:06:44 +0100
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-11-27 12:06:44 +0100
+
+
+Started GET "/assets/visits.js?body=1" for 127.0.0.1 at 2014-11-27 12:06:44 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-11-27 12:06:44 +0100
+
+
+Started GET "/trips/index" for 127.0.0.1 at 2014-11-27 12:08:47 +0100
+Processing by TripsController#index as HTML
+  [1m[36mTrip Load (1.0ms)[0m  [1mSELECT "trips".* FROM "trips"[0m
+  Rendered trips/index.html.erb within layouts/application (3.0ms)
+  [1m[35mUser Load (1.0ms)[0m  SELECT  "users".* FROM "users"  WHERE "users"."id" = 5  ORDER BY "users"."id" ASC LIMIT 1
+Completed 200 OK in 157ms (Views: 155.0ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-11-27 12:08:47 +0100
+
+
+Started GET "/assets/trips.css?body=1" for 127.0.0.1 at 2014-11-27 12:08:48 +0100
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-11-27 12:08:48 +0100
+
+
+Started GET "/assets/visits.css?body=1" for 127.0.0.1 at 2014-11-27 12:08:48 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-27 12:08:48 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-11-27 12:08:48 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-27 12:08:48 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-11-27 12:08:48 +0100
+
+
+Started GET "/assets/trips.js?body=1" for 127.0.0.1 at 2014-11-27 12:08:48 +0100
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-11-27 12:08:48 +0100
+
+
+Started GET "/assets/visits.js?body=1" for 127.0.0.1 at 2014-11-27 12:08:48 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-11-27 12:08:48 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2014-11-27 12:12:47 +0100
+Processing by StaticPagesController#home as HTML
+  [1m[36mUser Load (0.0ms)[0m  [1mSELECT  "users".* FROM "users"  WHERE "users"."id" = 5  ORDER BY "users"."id" ASC LIMIT 1[0m
+Redirected to http://localhost:3000/trips/index
+Filter chain halted as :check_user_logued rendered or redirected
+Completed 302 Found in 4ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/trips/index" for 127.0.0.1 at 2014-11-27 12:12:47 +0100
+Processing by TripsController#index as HTML
+  [1m[35mTrip Load (0.0ms)[0m  SELECT "trips".* FROM "trips"
+  Rendered trips/index.html.erb within layouts/application (2.0ms)
+  [1m[36mUser Load (0.0ms)[0m  [1mSELECT  "users".* FROM "users"  WHERE "users"."id" = 5  ORDER BY "users"."id" ASC LIMIT 1[0m
+Completed 200 OK in 160ms (Views: 160.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/trips.css?body=1" for 127.0.0.1 at 2014-11-27 12:12:47 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-11-27 12:12:47 +0100
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-11-27 12:12:47 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-11-27 12:12:47 +0100
+
+
+Started GET "/assets/visits.css?body=1" for 127.0.0.1 at 2014-11-27 12:12:47 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-27 12:12:47 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-27 12:12:47 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-11-27 12:12:47 +0100
+
+
+Started GET "/assets/trips.js?body=1" for 127.0.0.1 at 2014-11-27 12:12:47 +0100
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-11-27 12:12:48 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-11-27 12:12:48 +0100
+
+
+Started GET "/assets/visits.js?body=1" for 127.0.0.1 at 2014-11-27 12:12:48 +0100
+
+
+Started DELETE "/users/sign_out" for 127.0.0.1 at 2014-11-27 12:12:51 +0100
+Processing by Devise::SessionsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"By2y5AHvgsowV2bgC1zuetlsSutL//3CaGMobMP6BYg="}
+  [1m[35mUser Load (1.0ms)[0m  SELECT  "users".* FROM "users"  WHERE "users"."id" = 5  ORDER BY "users"."id" ASC LIMIT 1
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (1.0ms)[0m  commit transaction
+Redirected to http://localhost:3000/
+Completed 302 Found in 104ms (ActiveRecord: 2.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-11-27 12:12:51 +0100
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 123ms (Views: 123.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/trips.css?body=1" for 127.0.0.1 at 2014-11-27 12:12:51 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-11-27 12:12:51 +0100
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-11-27 12:12:52 +0100
+
+
+Started GET "/assets/visits.css?body=1" for 127.0.0.1 at 2014-11-27 12:12:52 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-27 12:12:52 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-11-27 12:12:52 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-27 12:12:52 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-11-27 12:12:52 +0100
+
+
+Started GET "/assets/trips.js?body=1" for 127.0.0.1 at 2014-11-27 12:12:52 +0100
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-11-27 12:12:52 +0100
+
+
+Started GET "/assets/visits.js?body=1" for 127.0.0.1 at 2014-11-27 12:12:52 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-11-27 12:12:52 +0100
+
+
+Started GET "/users/sign_up" for 127.0.0.1 at 2014-11-27 12:12:54 +0100
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/shared/_links.html.erb (1.0ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (8.0ms)
+Completed 200 OK in 178ms (Views: 176.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-11-27 12:12:54 +0100
+
+
+Started GET "/assets/trips.css?body=1" for 127.0.0.1 at 2014-11-27 12:12:54 +0100
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-11-27 12:12:55 +0100
+
+
+Started GET "/assets/visits.css?body=1" for 127.0.0.1 at 2014-11-27 12:12:55 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-27 12:12:55 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-11-27 12:12:55 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-27 12:12:55 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-11-27 12:12:55 +0100
+
+
+Started GET "/assets/trips.js?body=1" for 127.0.0.1 at 2014-11-27 12:12:55 +0100
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-11-27 12:12:55 +0100
+
+
+Started GET "/assets/visits.js?body=1" for 127.0.0.1 at 2014-11-27 12:12:55 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-11-27 12:12:55 +0100
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2014-11-27 12:13:04 +0100
+Processing by Devise::SessionsController#new as HTML
+  Rendered devise/shared/_links.html.erb (0.0ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (8.0ms)
+Completed 200 OK in 168ms (Views: 166.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/trips.css?body=1" for 127.0.0.1 at 2014-11-27 12:13:04 +0100
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-11-27 12:13:04 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-27 12:13:04 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-11-27 12:13:04 +0100
+
+
+Started GET "/assets/visits.css?body=1" for 127.0.0.1 at 2014-11-27 12:13:04 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-11-27 12:13:04 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-27 12:13:04 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-11-27 12:13:05 +0100
+
+
+Started GET "/assets/trips.js?body=1" for 127.0.0.1 at 2014-11-27 12:13:05 +0100
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-11-27 12:13:05 +0100
+
+
+Started GET "/assets/visits.js?body=1" for 127.0.0.1 at 2014-11-27 12:13:05 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-11-27 12:13:05 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2014-11-27 12:26:57 +0100
+  [1m[36mActiveRecord::SchemaMigration Load (0.0ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (10.0ms)
+Completed 200 OK in 402ms (Views: 352.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-11-27 12:26:58 +0100
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-11-27 12:26:58 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-27 12:26:58 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-11-27 12:26:58 +0100
+
+
+Started GET "/assets/visits.css?body=1" for 127.0.0.1 at 2014-11-27 12:26:58 +0100
+
+
+Started GET "/assets/trips.css?body=1" for 127.0.0.1 at 2014-11-27 12:26:58 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-27 12:26:58 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-11-27 12:26:58 +0100
+
+
+Started GET "/assets/trips.js?body=1" for 127.0.0.1 at 2014-11-27 12:26:58 +0100
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-11-27 12:26:58 +0100
+
+
+Started GET "/assets/visits.js?body=1" for 127.0.0.1 at 2014-11-27 12:26:58 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-11-27 12:26:58 +0100
+
+
+Started GET "/assets/campo.jpeg" for 127.0.0.1 at 2014-11-27 12:26:59 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2014-11-27 12:28:48 +0100
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 177ms (Views: 174.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/visits.css?body=1" for 127.0.0.1 at 2014-11-27 12:28:48 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-27 12:28:48 +0100
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-11-27 12:28:48 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-11-27 12:28:48 +0100
+
+
+Started GET "/assets/trips.css?body=1" for 127.0.0.1 at 2014-11-27 12:28:48 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-11-27 12:28:48 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-27 12:28:48 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-11-27 12:28:48 +0100
+
+
+Started GET "/assets/trips.js?body=1" for 127.0.0.1 at 2014-11-27 12:28:48 +0100
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-11-27 12:28:48 +0100
+
+
+Started GET "/assets/visits.js?body=1" for 127.0.0.1 at 2014-11-27 12:28:48 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-11-27 12:28:48 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2014-11-27 12:29:13 +0100
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 192ms (Views: 190.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-11-27 12:29:13 +0100
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-11-27 12:29:13 +0100
+
+
+Started GET "/assets/trips.css?body=1" for 127.0.0.1 at 2014-11-27 12:29:14 +0100
+
+
+Started GET "/assets/visits.css?body=1" for 127.0.0.1 at 2014-11-27 12:29:14 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-27 12:29:14 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-11-27 12:29:14 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-27 12:29:14 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-11-27 12:29:14 +0100
+
+
+Started GET "/assets/trips.js?body=1" for 127.0.0.1 at 2014-11-27 12:29:14 +0100
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-11-27 12:29:14 +0100
+
+
+Started GET "/assets/visits.js?body=1" for 127.0.0.1 at 2014-11-27 12:29:14 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-11-27 12:29:14 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2014-11-27 12:39:10 +0100
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (25.0ms)
+Completed 200 OK in 169ms (Views: 168.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/trips.css?body=1" for 127.0.0.1 at 2014-11-27 12:39:10 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-11-27 12:39:10 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-27 12:39:11 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-11-27 12:39:11 +0100
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-11-27 12:39:11 +0100
+
+
+Started GET "/assets/visits.css?body=1" for 127.0.0.1 at 2014-11-27 12:39:11 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-27 12:39:11 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-11-27 12:39:11 +0100
+
+
+Started GET "/assets/trips.js?body=1" for 127.0.0.1 at 2014-11-27 12:39:11 +0100
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-11-27 12:39:11 +0100
+
+
+Started GET "/assets/visits.js?body=1" for 127.0.0.1 at 2014-11-27 12:39:11 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-11-27 12:39:11 +0100
+
+
+Started GET "/users/sign_up" for 127.0.0.1 at 2014-11-27 12:42:03 +0100
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/shared/_links.html.erb (1.0ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (120.0ms)
+Completed 200 OK in 299ms (Views: 288.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/trips.css?body=1" for 127.0.0.1 at 2014-11-27 12:42:04 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-11-27 12:42:04 +0100
+
+
+Started GET "/assets/visits.css?body=1" for 127.0.0.1 at 2014-11-27 12:42:04 +0100
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-11-27 12:42:04 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-27 12:42:04 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-11-27 12:42:04 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-27 12:42:04 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-11-27 12:42:04 +0100
+
+
+Started GET "/assets/trips.js?body=1" for 127.0.0.1 at 2014-11-27 12:42:04 +0100
+
+
+Started GET "/assets/visits.js?body=1" for 127.0.0.1 at 2014-11-27 12:42:04 +0100
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-11-27 12:42:04 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-11-27 12:42:04 +0100
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2014-11-27 12:42:10 +0100
+Processing by Devise::SessionsController#new as HTML
+  Rendered devise/shared/_links.html.erb (1.0ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (27.0ms)
+Completed 200 OK in 192ms (Views: 189.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/visits.css?body=1" for 127.0.0.1 at 2014-11-27 12:42:11 +0100
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-11-27 12:42:11 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-27 12:42:11 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-11-27 12:42:11 +0100
+
+
+Started GET "/assets/trips.css?body=1" for 127.0.0.1 at 2014-11-27 12:42:11 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-11-27 12:42:11 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-27 12:42:11 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-11-27 12:42:11 +0100
+
+
+Started GET "/assets/trips.js?body=1" for 127.0.0.1 at 2014-11-27 12:42:11 +0100
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-11-27 12:42:11 +0100
+
+
+Started GET "/assets/visits.js?body=1" for 127.0.0.1 at 2014-11-27 12:42:11 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-11-27 12:42:11 +0100
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2014-11-27 12:42:15 +0100
+Processing by Devise::SessionsController#new as HTML
+  Rendered devise/shared/_links.html.erb (1.0ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 176ms (Views: 174.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-11-27 12:42:15 +0100
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-11-27 12:42:15 +0100
+
+
+Started GET "/assets/trips.css?body=1" for 127.0.0.1 at 2014-11-27 12:42:15 +0100
+
+
+Started GET "/assets/visits.css?body=1" for 127.0.0.1 at 2014-11-27 12:42:15 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-27 12:42:15 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-11-27 12:42:15 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-27 12:42:15 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-11-27 12:42:15 +0100
+
+
+Started GET "/assets/trips.js?body=1" for 127.0.0.1 at 2014-11-27 12:42:15 +0100
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-11-27 12:42:15 +0100
+
+
+Started GET "/assets/visits.js?body=1" for 127.0.0.1 at 2014-11-27 12:42:15 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-11-27 12:42:16 +0100
+
+
+Started GET "/users/sign_up" for 127.0.0.1 at 2014-11-27 12:42:26 +0100
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/shared/_links.html.erb (1.0ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (8.0ms)
+Completed 200 OK in 171ms (Views: 170.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/visits.css?body=1" for 127.0.0.1 at 2014-11-27 12:42:26 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-11-27 12:42:26 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-27 12:42:26 +0100
+
+
+Started GET "/assets/trips.css?body=1" for 127.0.0.1 at 2014-11-27 12:42:26 +0100
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-11-27 12:42:26 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-11-27 12:42:26 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-27 12:42:26 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-11-27 12:42:27 +0100
+
+
+Started GET "/assets/trips.js?body=1" for 127.0.0.1 at 2014-11-27 12:42:27 +0100
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-11-27 12:42:27 +0100
+
+
+Started GET "/assets/visits.js?body=1" for 127.0.0.1 at 2014-11-27 12:42:27 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-11-27 12:42:27 +0100
+
+
+Started POST "/users" for 127.0.0.1 at 2014-11-27 12:43:00 +0100
+Processing by Devise::RegistrationsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"k7RzlsaRKQzp7TLycFZx5ZV+H1HbK4XAI2vr2dKUuQg=", "user"=>{"name"=>"juanito", "email"=>"juan@juan.com", "team"=>"betis", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]"}, "commit"=>"Sign up"}
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mUser Exists (1.0ms)[0m  [1mSELECT  1 AS one FROM "users"  WHERE "users"."email" = 'juan@juan.com' LIMIT 1[0m
+Binary data inserted for `string` type on column `encrypted_password`
+  [1m[35mSQL (2.0ms)[0m  INSERT INTO "users" ("created_at", "email", "encrypted_password", "name", "team", "updated_at") VALUES (?, ?, ?, ?, ?, ?)  [["created_at", "2014-11-27 11:43:00.673511"], ["email", "juan@juan.com"], ["encrypted_password", "$2a$10$ZY5m4muKBdzKb0Yo.Q0ZzuMX8zyqXjNujdJy.5n1Ph2YdLx7eB0iO"], ["name", "juanito"], ["team", "betis"], ["updated_at", "2014-11-27 11:43:00.673511"]]
+  [1m[36m (144.0ms)[0m  [1mcommit transaction[0m
+  [1m[35m (1.0ms)[0m  begin transaction
+Binary data inserted for `string` type on column `current_sign_in_ip`
+Binary data inserted for `string` type on column `last_sign_in_ip`
+  [1m[36mSQL (4.0ms)[0m  [1mUPDATE "users" SET "current_sign_in_at" = ?, "current_sign_in_ip" = ?, "last_sign_in_at" = ?, "last_sign_in_ip" = ?, "sign_in_count" = ?, "updated_at" = ? WHERE "users"."id" = 6[0m  [["current_sign_in_at", "2014-11-27 11:43:00.839520"], ["current_sign_in_ip", "127.0.0.1"], ["last_sign_in_at", "2014-11-27 11:43:00.839520"], ["last_sign_in_ip", "127.0.0.1"], ["sign_in_count", 1], ["updated_at", "2014-11-27 11:43:00.844521"]]
+  [1m[35m (92.0ms)[0m  commit transaction
+Redirected to http://localhost:3000/trips/index
+Completed 302 Found in 468ms (ActiveRecord: 244.0ms)
+
+
+Started GET "/trips/index" for 127.0.0.1 at 2014-11-27 12:43:01 +0100
+Processing by TripsController#index as HTML
+  [1m[36mTrip Load (1.0ms)[0m  [1mSELECT "trips".* FROM "trips"[0m
+  Rendered trips/index.html.erb within layouts/application (10.0ms)
+  [1m[35mUser Load (0.0ms)[0m  SELECT  "users".* FROM "users"  WHERE "users"."id" = 6  ORDER BY "users"."id" ASC LIMIT 1
+Completed 200 OK in 213ms (Views: 203.0ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-11-27 12:43:01 +0100
+
+
+Started GET "/assets/trips.css?body=1" for 127.0.0.1 at 2014-11-27 12:43:01 +0100
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-11-27 12:43:01 +0100
+
+
+Started GET "/assets/visits.css?body=1" for 127.0.0.1 at 2014-11-27 12:43:01 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-27 12:43:01 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-11-27 12:43:01 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-27 12:43:01 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-11-27 12:43:01 +0100
+
+
+Started GET "/assets/trips.js?body=1" for 127.0.0.1 at 2014-11-27 12:43:01 +0100
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-11-27 12:43:01 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-11-27 12:43:02 +0100
+
+
+Started GET "/assets/visits.js?body=1" for 127.0.0.1 at 2014-11-27 12:43:02 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2014-11-27 12:43:24 +0100
+Processing by StaticPagesController#home as HTML
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT  "users".* FROM "users"  WHERE "users"."id" = 6  ORDER BY "users"."id" ASC LIMIT 1[0m
+Redirected to http://localhost:3000/trips/index
+Filter chain halted as :check_user_logued rendered or redirected
+Completed 302 Found in 4ms (ActiveRecord: 1.0ms)
+
+
+Started GET "/trips/index" for 127.0.0.1 at 2014-11-27 12:43:25 +0100
+Processing by TripsController#index as HTML
+  [1m[35mTrip Load (0.0ms)[0m  SELECT "trips".* FROM "trips"
+  Rendered trips/index.html.erb within layouts/application (1.0ms)
+  [1m[36mUser Load (0.0ms)[0m  [1mSELECT  "users".* FROM "users"  WHERE "users"."id" = 6  ORDER BY "users"."id" ASC LIMIT 1[0m
+Completed 200 OK in 131ms (Views: 131.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-11-27 12:43:25 +0100
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-11-27 12:43:25 +0100
+
+
+Started GET "/assets/trips.css?body=1" for 127.0.0.1 at 2014-11-27 12:43:25 +0100
+
+
+Started GET "/assets/visits.css?body=1" for 127.0.0.1 at 2014-11-27 12:43:25 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-27 12:43:25 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-11-27 12:43:25 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-27 12:43:25 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-11-27 12:43:25 +0100
+
+
+Started GET "/assets/trips.js?body=1" for 127.0.0.1 at 2014-11-27 12:43:25 +0100
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-11-27 12:43:25 +0100
+
+
+Started GET "/assets/visits.js?body=1" for 127.0.0.1 at 2014-11-27 12:43:25 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-11-27 12:43:25 +0100
+
+
+Started DELETE "/users/sign_out" for 127.0.0.1 at 2014-11-27 12:43:34 +0100
+Processing by Devise::SessionsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"k7RzlsaRKQzp7TLycFZx5ZV+H1HbK4XAI2vr2dKUuQg="}
+  [1m[35mUser Load (1.0ms)[0m  SELECT  "users".* FROM "users"  WHERE "users"."id" = 6  ORDER BY "users"."id" ASC LIMIT 1
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (1.0ms)[0m  commit transaction
+Redirected to http://localhost:3000/
+Completed 302 Found in 21ms (ActiveRecord: 2.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-11-27 12:43:34 +0100
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 156ms (Views: 155.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/trips.css?body=1" for 127.0.0.1 at 2014-11-27 12:43:34 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-11-27 12:43:34 +0100
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-11-27 12:43:35 +0100
+
+
+Started GET "/assets/visits.css?body=1" for 127.0.0.1 at 2014-11-27 12:43:35 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-27 12:43:35 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-11-27 12:43:35 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-27 12:43:35 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-11-27 12:43:35 +0100
+
+
+Started GET "/assets/trips.js?body=1" for 127.0.0.1 at 2014-11-27 12:43:35 +0100
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-11-27 12:43:35 +0100
+
+
+Started GET "/assets/visits.js?body=1" for 127.0.0.1 at 2014-11-27 12:43:35 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-11-27 12:43:35 +0100
+  [1m[36mUser Load (0.0ms)[0m  [1mSELECT  "users".* FROM "users"   ORDER BY "users"."id" DESC LIMIT 1[0m
+  [1m[35mUser Load (0.0ms)[0m  SELECT "users".* FROM "users"
+  [1m[36mUser Load (0.0ms)[0m  [1mSELECT  "users".* FROM "users"   ORDER BY "users"."id" ASC LIMIT 1 OFFSET 1[0m
+  [1m[35mUser Load (0.0ms)[0m  SELECT  "users".* FROM "users"   ORDER BY "users"."id" ASC LIMIT 1 OFFSET 2
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2014-11-27 12:54:28 +0100
+Processing by Devise::SessionsController#new as HTML
+  Rendered devise/shared/_links.html.erb (1.0ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (10.0ms)
+Completed 200 OK in 186ms (Views: 184.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/trips.css?body=1" for 127.0.0.1 at 2014-11-27 12:54:28 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-11-27 12:54:29 +0100
+
+
+Started GET "/assets/visits.css?body=1" for 127.0.0.1 at 2014-11-27 12:54:29 +0100
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-11-27 12:54:29 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-27 12:54:29 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-11-27 12:54:29 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-27 12:54:29 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-11-27 12:54:29 +0100
+
+
+Started GET "/assets/trips.js?body=1" for 127.0.0.1 at 2014-11-27 12:54:29 +0100
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-11-27 12:54:29 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-11-27 12:54:29 +0100
+
+
+Started GET "/assets/visits.js?body=1" for 127.0.0.1 at 2014-11-27 12:54:29 +0100
+
+
+Started POST "/users/sign_in" for 127.0.0.1 at 2014-11-27 12:54:40 +0100
+Processing by Devise::SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"YQxbc7u3RUVstAY4tLcuh4YOlNssNF9p40WUZ070eCo=", "user"=>{"name"=>"juan", "email"=>"holi@holi.com", "password"=>"[FILTERED]", "remember_me"=>"0"}, "commit"=>"Log in"}
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT  "users".* FROM "users"  WHERE "users"."email" = 'holi@holi.com'  ORDER BY "users"."id" ASC LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (1.0ms)[0m  [1mUPDATE "users" SET "current_sign_in_at" = ?, "sign_in_count" = ?, "updated_at" = ? WHERE "users"."id" = 3[0m  [["current_sign_in_at", "2014-11-27 11:54:40.887345"], ["sign_in_count", 2], ["updated_at", "2014-11-27 11:54:40.888345"]]
+  [1m[35m (114.0ms)[0m  commit transaction
+Redirected to http://localhost:3000/
+Completed 302 Found in 301ms (ActiveRecord: 116.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-11-27 12:54:41 +0100
+Processing by StaticPagesController#home as HTML
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT  "users".* FROM "users"  WHERE "users"."id" = 3  ORDER BY "users"."id" ASC LIMIT 1[0m
+Redirected to http://localhost:3000/trips/index
+Filter chain halted as :check_user_logued rendered or redirected
+Completed 302 Found in 4ms (ActiveRecord: 1.0ms)
+
+
+Started GET "/trips/index" for 127.0.0.1 at 2014-11-27 12:54:41 +0100
+Processing by TripsController#index as HTML
+  [1m[35mTrip Load (1.0ms)[0m  SELECT "trips".* FROM "trips"
+  Rendered trips/index.html.erb within layouts/application (2.0ms)
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT  "users".* FROM "users"  WHERE "users"."id" = 3  ORDER BY "users"."id" ASC LIMIT 1[0m
+Completed 200 OK in 161ms (Views: 159.0ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-11-27 12:54:41 +0100
+
+
+Started GET "/assets/trips.css?body=1" for 127.0.0.1 at 2014-11-27 12:54:41 +0100
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-11-27 12:54:41 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-27 12:54:41 +0100
+
+
+Started GET "/assets/visits.css?body=1" for 127.0.0.1 at 2014-11-27 12:54:41 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-11-27 12:54:41 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-27 12:54:41 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-11-27 12:54:41 +0100
+
+
+Started GET "/assets/trips.js?body=1" for 127.0.0.1 at 2014-11-27 12:54:41 +0100
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-11-27 12:54:42 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-11-27 12:54:42 +0100
+
+
+Started GET "/assets/visits.js?body=1" for 127.0.0.1 at 2014-11-27 12:54:42 +0100
+
+
+Started GET "/trips/index" for 127.0.0.1 at 2014-11-27 12:57:59 +0100
+Processing by TripsController#index as HTML
+  [1m[35mTrip Load (0.0ms)[0m  SELECT "trips".* FROM "trips"
+  Rendered trips/index.html.erb within layouts/application (2.0ms)
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT  "users".* FROM "users"  WHERE "users"."id" = 3  ORDER BY "users"."id" ASC LIMIT 1[0m
+Completed 200 OK in 279ms (Views: 277.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-27 12:58:00 +0100
+
+
+Started GET "/assets/trips.css?body=1" for 127.0.0.1 at 2014-11-27 12:58:00 +0100
+
+
+Started GET "/assets/visits.css?body=1" for 127.0.0.1 at 2014-11-27 12:58:00 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-11-27 12:58:00 +0100
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-11-27 12:58:00 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-11-27 12:58:00 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-27 12:58:00 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-11-27 12:58:00 +0100
+
+
+Started GET "/assets/trips.js?body=1" for 127.0.0.1 at 2014-11-27 12:58:00 +0100
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-11-27 12:58:00 +0100
+
+
+Started GET "/assets/visits.js?body=1" for 127.0.0.1 at 2014-11-27 12:58:00 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-11-27 12:58:00 +0100
+
+
+Started DELETE "/users/sign_out" for 127.0.0.1 at 2014-11-27 13:01:17 +0100
+Processing by Devise::SessionsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"PbCMUrXfF7hqUk6TNQ8EYcrNlzSV2z9tqzFDhn6A6Do="}
+  [1m[35mUser Load (1.0ms)[0m  SELECT  "users".* FROM "users"  WHERE "users"."id" = 3  ORDER BY "users"."id" ASC LIMIT 1
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  commit transaction
+Redirected to http://localhost:3000/
+Completed 302 Found in 5ms (ActiveRecord: 1.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-11-27 13:01:17 +0100
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 210ms (Views: 208.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/trips.css?body=1" for 127.0.0.1 at 2014-11-27 13:01:17 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-11-27 13:01:17 +0100
+
+
+Started GET "/assets/visits.css?body=1" for 127.0.0.1 at 2014-11-27 13:01:17 +0100
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-11-27 13:01:17 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-27 13:01:17 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-11-27 13:01:17 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-27 13:01:17 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-11-27 13:01:17 +0100
+
+
+Started GET "/assets/trips.js?body=1" for 127.0.0.1 at 2014-11-27 13:01:18 +0100
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-11-27 13:01:18 +0100
+
+
+Started GET "/assets/visits.js?body=1" for 127.0.0.1 at 2014-11-27 13:01:18 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-11-27 13:01:18 +0100
+
+
+Started GET "/users/sign_up" for 127.0.0.1 at 2014-11-27 13:12:10 +0100
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/shared/_links.html.erb (0.0ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (16.0ms)
+Completed 200 OK in 231ms (Views: 230.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-11-27 13:12:11 +0100
+
+
+Started GET "/assets/trips.css?body=1" for 127.0.0.1 at 2014-11-27 13:12:11 +0100
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-11-27 13:12:11 +0100
+
+
+Started GET "/assets/visits.css?body=1" for 127.0.0.1 at 2014-11-27 13:12:11 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-27 13:12:11 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-11-27 13:12:11 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-27 13:12:11 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-11-27 13:12:11 +0100
+
+
+Started GET "/assets/trips.js?body=1" for 127.0.0.1 at 2014-11-27 13:12:11 +0100
+
+
+Started GET "/assets/visits.js?body=1" for 127.0.0.1 at 2014-11-27 13:12:11 +0100
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-11-27 13:12:11 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-11-27 13:12:11 +0100
+
+
+Started GET "/users/sign_up" for 127.0.0.1 at 2014-11-27 13:13:46 +0100
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/shared/_links.html.erb (0.0ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 227ms (Views: 226.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-11-27 13:13:46 +0100
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-11-27 13:13:46 +0100
+
+
+Started GET "/assets/visits.css?body=1" for 127.0.0.1 at 2014-11-27 13:13:46 +0100
+
+
+Started GET "/assets/trips.css?body=1" for 127.0.0.1 at 2014-11-27 13:13:46 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-27 13:13:46 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-11-27 13:13:47 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-27 13:13:47 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-11-27 13:13:47 +0100
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-11-27 13:13:47 +0100
+
+
+Started GET "/assets/trips.js?body=1" for 127.0.0.1 at 2014-11-27 13:13:47 +0100
+
+
+Started GET "/assets/visits.js?body=1" for 127.0.0.1 at 2014-11-27 13:13:47 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-11-27 13:13:47 +0100
+
+
+Started POST "/users" for 127.0.0.1 at 2014-11-27 13:14:13 +0100
+Processing by Devise::RegistrationsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"l3NdclSbCLjeoJ8x6HEg2J/MqZo6V8sOyNb/nQUqoeQ=", "user"=>{"name"=>"juan", "email"=>"holi@holi.com", "team"=>"betis", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]"}, "commit"=>"Sign up"}
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mUser Exists (1.0ms)[0m  SELECT  1 AS one FROM "users"  WHERE "users"."email" = 'holi@holi.com' LIMIT 1
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  Rendered devise/shared/_links.html.erb (1.0ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (9.0ms)
+Completed 200 OK in 317ms (Views: 169.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-11-27 13:14:14 +0100
+
+
+Started GET "/assets/trips.css?body=1" for 127.0.0.1 at 2014-11-27 13:14:14 +0100
+
+
+Started GET "/assets/visits.css?body=1" for 127.0.0.1 at 2014-11-27 13:14:14 +0100
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-11-27 13:14:14 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-27 13:14:14 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-11-27 13:14:14 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-27 13:14:14 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-11-27 13:14:14 +0100
+
+
+Started GET "/assets/trips.js?body=1" for 127.0.0.1 at 2014-11-27 13:14:14 +0100
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-11-27 13:14:14 +0100
+
+
+Started GET "/assets/visits.js?body=1" for 127.0.0.1 at 2014-11-27 13:14:14 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-11-27 13:14:14 +0100
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2014-11-27 13:14:20 +0100
+Processing by Devise::SessionsController#new as HTML
+  Rendered devise/shared/_links.html.erb (0.0ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (8.0ms)
+Completed 200 OK in 174ms (Views: 173.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-11-27 13:14:20 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-27 13:14:20 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-11-27 13:14:20 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-11-27 13:14:20 +0100
+
+
+Started GET "/assets/trips.css?body=1" for 127.0.0.1 at 2014-11-27 13:14:20 +0100
+
+
+Started GET "/assets/visits.css?body=1" for 127.0.0.1 at 2014-11-27 13:14:20 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-27 13:14:20 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-11-27 13:14:20 +0100
+
+
+Started GET "/assets/trips.js?body=1" for 127.0.0.1 at 2014-11-27 13:14:20 +0100
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-11-27 13:14:20 +0100
+
+
+Started GET "/assets/visits.js?body=1" for 127.0.0.1 at 2014-11-27 13:14:20 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-11-27 13:14:20 +0100
+
+
+Started POST "/users/sign_in" for 127.0.0.1 at 2014-11-27 13:14:29 +0100
+Processing by Devise::SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"l3NdclSbCLjeoJ8x6HEg2J/MqZo6V8sOyNb/nQUqoeQ=", "user"=>{"name"=>"juan", "email"=>"holi@holi.com", "password"=>"[FILTERED]", "remember_me"=>"0"}, "commit"=>"Log in"}
+  [1m[35mUser Load (1.0ms)[0m  SELECT  "users".* FROM "users"  WHERE "users"."email" = 'holi@holi.com'  ORDER BY "users"."id" ASC LIMIT 1
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (1.0ms)[0m  UPDATE "users" SET "current_sign_in_at" = ?, "last_sign_in_at" = ?, "sign_in_count" = ?, "updated_at" = ? WHERE "users"."id" = 3  [["current_sign_in_at", "2014-11-27 12:14:29.791402"], ["last_sign_in_at", "2014-11-27 11:54:40.887345"], ["sign_in_count", 3], ["updated_at", "2014-11-27 12:14:29.792403"]]
+  [1m[36m (109.0ms)[0m  [1mcommit transaction[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 268ms (ActiveRecord: 111.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-11-27 13:14:29 +0100
+Processing by StaticPagesController#home as HTML
+  [1m[35mUser Load (1.0ms)[0m  SELECT  "users".* FROM "users"  WHERE "users"."id" = 3  ORDER BY "users"."id" ASC LIMIT 1
+Redirected to http://localhost:3000/trips/index
+Filter chain halted as :check_user_logued rendered or redirected
+Completed 302 Found in 3ms (ActiveRecord: 1.0ms)
+
+
+Started GET "/trips/index" for 127.0.0.1 at 2014-11-27 13:14:30 +0100
+Processing by TripsController#index as HTML
+  [1m[36mTrip Load (0.0ms)[0m  [1mSELECT "trips".* FROM "trips"[0m
+  Rendered trips/index.html.erb within layouts/application (31.0ms)
+  [1m[35mUser Load (0.0ms)[0m  SELECT  "users".* FROM "users"  WHERE "users"."id" = 3  ORDER BY "users"."id" ASC LIMIT 1
+Completed 200 OK in 158ms (Views: 158.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-11-27 13:14:30 +0100
+
+
+Started GET "/assets/trips.css?body=1" for 127.0.0.1 at 2014-11-27 13:14:30 +0100
+
+
+Started GET "/assets/visits.css?body=1" for 127.0.0.1 at 2014-11-27 13:14:30 +0100
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-11-27 13:14:30 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-27 13:14:30 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-11-27 13:14:30 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-27 13:14:30 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-11-27 13:14:30 +0100
+
+
+Started GET "/assets/trips.js?body=1" for 127.0.0.1 at 2014-11-27 13:14:30 +0100
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-11-27 13:14:30 +0100
+
+
+Started GET "/assets/visits.js?body=1" for 127.0.0.1 at 2014-11-27 13:14:30 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-11-27 13:14:30 +0100
+
+
+Started GET "/trips/index" for 127.0.0.1 at 2014-11-27 13:14:56 +0100
+Processing by TripsController#index as HTML
+  [1m[36mTrip Load (1.0ms)[0m  [1mSELECT "trips".* FROM "trips"[0m
+  Rendered trips/index.html.erb within layouts/application (3.0ms)
+  [1m[35mUser Load (0.0ms)[0m  SELECT  "users".* FROM "users"  WHERE "users"."id" = 3  ORDER BY "users"."id" ASC LIMIT 1
+Completed 200 OK in 162ms (Views: 161.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-27 13:14:56 +0100
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-11-27 13:14:57 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-11-27 13:14:57 +0100
+
+
+Started GET "/assets/trips.css?body=1" for 127.0.0.1 at 2014-11-27 13:14:57 +0100
+
+
+Started GET "/assets/visits.css?body=1" for 127.0.0.1 at 2014-11-27 13:14:57 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-11-27 13:14:57 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-27 13:14:57 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-11-27 13:14:57 +0100
+
+
+Started GET "/assets/trips.js?body=1" for 127.0.0.1 at 2014-11-27 13:14:57 +0100
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-11-27 13:14:57 +0100
+
+
+Started GET "/assets/visits.js?body=1" for 127.0.0.1 at 2014-11-27 13:14:57 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-11-27 13:14:57 +0100
+
+
+Started GET "/trips/index" for 127.0.0.1 at 2014-11-27 13:15:22 +0100
+Processing by TripsController#index as HTML
+  [1m[36mTrip Load (0.0ms)[0m  [1mSELECT "trips".* FROM "trips"[0m
+  Rendered trips/index.html.erb within layouts/application (2.0ms)
+  [1m[35mUser Load (0.0ms)[0m  SELECT  "users".* FROM "users"  WHERE "users"."id" = 3  ORDER BY "users"."id" ASC LIMIT 1
+Completed 200 OK in 213ms (Views: 212.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-11-27 13:15:23 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-11-27 13:15:23 +0100
+
+
+Started GET "/assets/trips.css?body=1" for 127.0.0.1 at 2014-11-27 13:15:23 +0100
+
+
+Started GET "/assets/visits.css?body=1" for 127.0.0.1 at 2014-11-27 13:15:23 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-27 13:15:23 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-11-27 13:15:23 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-27 13:15:23 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-11-27 13:15:23 +0100
+
+
+Started GET "/assets/trips.js?body=1" for 127.0.0.1 at 2014-11-27 13:15:23 +0100
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-11-27 13:15:23 +0100
+
+
+Started GET "/assets/visits.js?body=1" for 127.0.0.1 at 2014-11-27 13:15:23 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-11-27 13:15:23 +0100
+
+
+Started GET "/trips/index" for 127.0.0.1 at 2014-11-27 13:16:23 +0100
+Processing by TripsController#index as HTML
+  [1m[36mTrip Load (0.0ms)[0m  [1mSELECT "trips".* FROM "trips"[0m
+  Rendered trips/index.html.erb within layouts/application (2.0ms)
+  [1m[35mUser Load (0.0ms)[0m  SELECT  "users".* FROM "users"  WHERE "users"."id" = 3  ORDER BY "users"."id" ASC LIMIT 1
+Completed 200 OK in 228ms (Views: 228.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/visits.css?body=1" for 127.0.0.1 at 2014-11-27 13:16:23 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-11-27 13:16:23 +0100
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-11-27 13:16:23 +0100
+
+
+Started GET "/assets/trips.css?body=1" for 127.0.0.1 at 2014-11-27 13:16:23 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-27 13:16:23 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-11-27 13:16:23 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-27 13:16:24 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-11-27 13:16:24 +0100
+
+
+Started GET "/assets/trips.js?body=1" for 127.0.0.1 at 2014-11-27 13:16:24 +0100
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-11-27 13:16:24 +0100
+
+
+Started GET "/assets/visits.js?body=1" for 127.0.0.1 at 2014-11-27 13:16:24 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-11-27 13:16:24 +0100
+
+
+Started GET "/trips/index" for 127.0.0.1 at 2014-11-27 13:16:39 +0100
+Processing by TripsController#index as HTML
+  [1m[36mTrip Load (1.0ms)[0m  [1mSELECT "trips".* FROM "trips"[0m
+  Rendered trips/index.html.erb within layouts/application (1.0ms)
+  [1m[35mUser Load (1.0ms)[0m  SELECT  "users".* FROM "users"  WHERE "users"."id" = 3  ORDER BY "users"."id" ASC LIMIT 1
+Completed 200 OK in 241ms (Views: 238.0ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-11-27 13:16:39 +0100
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-11-27 13:16:39 +0100
+
+
+Started GET "/assets/trips.css?body=1" for 127.0.0.1 at 2014-11-27 13:16:39 +0100
+
+
+Started GET "/assets/visits.css?body=1" for 127.0.0.1 at 2014-11-27 13:16:39 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-27 13:16:39 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-11-27 13:16:39 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-27 13:16:40 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-11-27 13:16:40 +0100
+
+
+Started GET "/assets/trips.js?body=1" for 127.0.0.1 at 2014-11-27 13:16:40 +0100
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-11-27 13:16:40 +0100
+
+
+Started GET "/assets/visits.js?body=1" for 127.0.0.1 at 2014-11-27 13:16:40 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-11-27 13:16:40 +0100
+
+
+Started GET "/trips/index" for 127.0.0.1 at 2014-11-27 13:17:13 +0100
+Processing by TripsController#index as HTML
+  [1m[36mTrip Load (1.0ms)[0m  [1mSELECT "trips".* FROM "trips"[0m
+  Rendered trips/index.html.erb within layouts/application (2.0ms)
+  [1m[35mUser Load (1.0ms)[0m  SELECT  "users".* FROM "users"  WHERE "users"."id" = 3  ORDER BY "users"."id" ASC LIMIT 1
+Completed 200 OK in 247ms (Views: 244.0ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-11-27 13:17:13 +0100
+
+
+Started GET "/assets/trips.css?body=1" for 127.0.0.1 at 2014-11-27 13:17:13 +0100
+
+
+Started GET "/assets/visits.css?body=1" for 127.0.0.1 at 2014-11-27 13:17:13 +0100
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-11-27 13:17:13 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-27 13:17:13 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-11-27 13:17:14 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-27 13:17:14 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-11-27 13:17:14 +0100
+
+
+Started GET "/assets/trips.js?body=1" for 127.0.0.1 at 2014-11-27 13:17:14 +0100
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-11-27 13:17:14 +0100
+
+
+Started GET "/assets/visits.js?body=1" for 127.0.0.1 at 2014-11-27 13:17:14 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-11-27 13:17:14 +0100
+
+
+Started GET "/trips/index" for 127.0.0.1 at 2014-11-27 13:17:46 +0100
+Processing by TripsController#index as HTML
+  [1m[36mTrip Load (1.0ms)[0m  [1mSELECT "trips".* FROM "trips"[0m
+  Rendered trips/index.html.erb within layouts/application (2.0ms)
+  [1m[35mUser Load (1.0ms)[0m  SELECT  "users".* FROM "users"  WHERE "users"."id" = 3  ORDER BY "users"."id" ASC LIMIT 1
+Completed 200 OK in 223ms (Views: 221.0ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/assets/trips.css?body=1" for 127.0.0.1 at 2014-11-27 13:17:46 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-11-27 13:17:46 +0100
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-11-27 13:17:46 +0100
+
+
+Started GET "/assets/visits.css?body=1" for 127.0.0.1 at 2014-11-27 13:17:46 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-11-27 13:17:46 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-27 13:17:46 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-27 13:17:46 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-11-27 13:17:46 +0100
+
+
+Started GET "/assets/trips.js?body=1" for 127.0.0.1 at 2014-11-27 13:17:46 +0100
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-11-27 13:17:46 +0100
+
+
+Started GET "/assets/visits.js?body=1" for 127.0.0.1 at 2014-11-27 13:17:46 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-11-27 13:17:47 +0100
+
+
+Started GET "/trips/index" for 127.0.0.1 at 2014-11-27 13:18:10 +0100
+Processing by TripsController#index as HTML
+  [1m[36mTrip Load (0.0ms)[0m  [1mSELECT "trips".* FROM "trips"[0m
+  Rendered trips/index.html.erb within layouts/application (2.0ms)
+  [1m[35mUser Load (0.0ms)[0m  SELECT  "users".* FROM "users"  WHERE "users"."id" = 3  ORDER BY "users"."id" ASC LIMIT 1
+Completed 200 OK in 218ms (Views: 218.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-11-27 13:18:10 +0100
+
+
+Started GET "/assets/trips.css?body=1" for 127.0.0.1 at 2014-11-27 13:18:10 +0100
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-11-27 13:18:10 +0100
+
+
+Started GET "/assets/visits.css?body=1" for 127.0.0.1 at 2014-11-27 13:18:10 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-27 13:18:10 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-11-27 13:18:10 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-27 13:18:10 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-11-27 13:18:10 +0100
+
+
+Started GET "/assets/trips.js?body=1" for 127.0.0.1 at 2014-11-27 13:18:11 +0100
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-11-27 13:18:11 +0100
+
+
+Started GET "/assets/visits.js?body=1" for 127.0.0.1 at 2014-11-27 13:18:11 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-11-27 13:18:11 +0100
+
+
+Started GET "/trips/index" for 127.0.0.1 at 2014-11-27 13:20:34 +0100
+Processing by TripsController#index as HTML
+  [1m[36mTrip Load (0.0ms)[0m  [1mSELECT "trips".* FROM "trips"[0m
+  Rendered trips/index.html.erb within layouts/application (2.0ms)
+  [1m[35mUser Load (1.0ms)[0m  SELECT  "users".* FROM "users"  WHERE "users"."id" = 3  ORDER BY "users"."id" ASC LIMIT 1
+Completed 200 OK in 223ms (Views: 222.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-11-27 13:20:34 +0100
+
+
+Started GET "/assets/trips.css?body=1" for 127.0.0.1 at 2014-11-27 13:20:34 +0100
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-11-27 13:20:34 +0100
+
+
+Started GET "/assets/visits.css?body=1" for 127.0.0.1 at 2014-11-27 13:20:34 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-27 13:20:34 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-27 13:20:34 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-11-27 13:20:34 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-11-27 13:20:34 +0100
+
+
+Started GET "/assets/trips.js?body=1" for 127.0.0.1 at 2014-11-27 13:20:34 +0100
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-11-27 13:20:35 +0100
+
+
+Started GET "/assets/visits.js?body=1" for 127.0.0.1 at 2014-11-27 13:20:35 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-11-27 13:20:35 +0100
+
+
+Started GET "/trips/index" for 127.0.0.1 at 2014-11-27 13:20:50 +0100
+Processing by TripsController#index as HTML
+  [1m[36mTrip Load (1.0ms)[0m  [1mSELECT "trips".* FROM "trips"[0m
+  Rendered trips/index.html.erb within layouts/application (1.0ms)
+  [1m[35mUser Load (0.0ms)[0m  SELECT  "users".* FROM "users"  WHERE "users"."id" = 3  ORDER BY "users"."id" ASC LIMIT 1
+Completed 200 OK in 245ms (Views: 244.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-11-27 13:20:50 +0100
+
+
+Started GET "/assets/trips.css?body=1" for 127.0.0.1 at 2014-11-27 13:20:50 +0100
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-11-27 13:20:50 +0100
+
+
+Started GET "/assets/visits.css?body=1" for 127.0.0.1 at 2014-11-27 13:20:50 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-27 13:20:50 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-11-27 13:20:50 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-27 13:20:50 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-11-27 13:20:50 +0100
+
+
+Started GET "/assets/trips.js?body=1" for 127.0.0.1 at 2014-11-27 13:20:51 +0100
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-11-27 13:20:51 +0100
+
+
+Started GET "/assets/visits.js?body=1" for 127.0.0.1 at 2014-11-27 13:20:51 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-11-27 13:20:51 +0100
+
+
+Started GET "/trips/index" for 127.0.0.1 at 2014-11-27 13:21:07 +0100
+Processing by TripsController#index as HTML
+  [1m[36mTrip Load (1.0ms)[0m  [1mSELECT "trips".* FROM "trips"[0m
+  Rendered trips/index.html.erb within layouts/application (2.0ms)
+  [1m[35mUser Load (0.0ms)[0m  SELECT  "users".* FROM "users"  WHERE "users"."id" = 3  ORDER BY "users"."id" ASC LIMIT 1
+Completed 200 OK in 160ms (Views: 159.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-11-27 13:21:07 +0100
+
+
+Started GET "/assets/trips.css?body=1" for 127.0.0.1 at 2014-11-27 13:21:07 +0100
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-11-27 13:21:07 +0100
+
+
+Started GET "/assets/visits.css?body=1" for 127.0.0.1 at 2014-11-27 13:21:07 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-27 13:21:07 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-11-27 13:21:07 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-27 13:21:07 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-11-27 13:21:07 +0100
+
+
+Started GET "/assets/trips.js?body=1" for 127.0.0.1 at 2014-11-27 13:21:08 +0100
+
+
+Started GET "/assets/visits.js?body=1" for 127.0.0.1 at 2014-11-27 13:21:08 +0100
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-11-27 13:21:08 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-11-27 13:21:08 +0100
+
+
+Started GET "/trips/index" for 127.0.0.1 at 2014-11-27 13:21:36 +0100
+Processing by TripsController#index as HTML
+  [1m[36mTrip Load (0.0ms)[0m  [1mSELECT "trips".* FROM "trips"[0m
+  Rendered trips/index.html.erb within layouts/application (1.0ms)
+  [1m[35mUser Load (1.0ms)[0m  SELECT  "users".* FROM "users"  WHERE "users"."id" = 3  ORDER BY "users"."id" ASC LIMIT 1
+Completed 200 OK in 217ms (Views: 215.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-11-27 13:21:36 +0100
+
+
+Started GET "/assets/trips.css?body=1" for 127.0.0.1 at 2014-11-27 13:21:36 +0100
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-11-27 13:21:37 +0100
+
+
+Started GET "/assets/visits.css?body=1" for 127.0.0.1 at 2014-11-27 13:21:37 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-27 13:21:37 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-11-27 13:21:37 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-27 13:21:37 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-11-27 13:21:37 +0100
+
+
+Started GET "/assets/trips.js?body=1" for 127.0.0.1 at 2014-11-27 13:21:37 +0100
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-11-27 13:21:37 +0100
+
+
+Started GET "/assets/visits.js?body=1" for 127.0.0.1 at 2014-11-27 13:21:37 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-11-27 13:21:37 +0100
+
+
+Started GET "/trips/index" for 127.0.0.1 at 2014-11-27 13:21:47 +0100
+Processing by TripsController#index as HTML
+  [1m[36mTrip Load (1.0ms)[0m  [1mSELECT "trips".* FROM "trips"[0m
+  Rendered trips/index.html.erb within layouts/application (1.0ms)
+  [1m[35mUser Load (1.0ms)[0m  SELECT  "users".* FROM "users"  WHERE "users"."id" = 3  ORDER BY "users"."id" ASC LIMIT 1
+Completed 200 OK in 211ms (Views: 209.0ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-11-27 13:21:47 +0100
+
+
+Started GET "/assets/trips.css?body=1" for 127.0.0.1 at 2014-11-27 13:21:47 +0100
+
+
+Started GET "/assets/visits.css?body=1" for 127.0.0.1 at 2014-11-27 13:21:47 +0100
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-11-27 13:21:48 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-27 13:21:48 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-11-27 13:21:48 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-27 13:21:48 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-11-27 13:21:48 +0100
+
+
+Started GET "/assets/trips.js?body=1" for 127.0.0.1 at 2014-11-27 13:21:48 +0100
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-11-27 13:21:48 +0100
+
+
+Started GET "/assets/visits.js?body=1" for 127.0.0.1 at 2014-11-27 13:21:48 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-11-27 13:21:48 +0100
+
+
+Started GET "/trips/index" for 127.0.0.1 at 2014-11-27 13:21:58 +0100
+Processing by TripsController#index as HTML
+  [1m[36mTrip Load (0.0ms)[0m  [1mSELECT "trips".* FROM "trips"[0m
+  Rendered trips/index.html.erb within layouts/application (2.0ms)
+  [1m[35mUser Load (1.0ms)[0m  SELECT  "users".* FROM "users"  WHERE "users"."id" = 3  ORDER BY "users"."id" ASC LIMIT 1
+Completed 200 OK in 247ms (Views: 246.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-11-27 13:21:58 +0100
+
+
+Started GET "/assets/trips.css?body=1" for 127.0.0.1 at 2014-11-27 13:21:58 +0100
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-11-27 13:21:59 +0100
+
+
+Started GET "/assets/visits.css?body=1" for 127.0.0.1 at 2014-11-27 13:21:59 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-27 13:21:59 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-11-27 13:21:59 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-27 13:21:59 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-11-27 13:21:59 +0100
+
+
+Started GET "/assets/trips.js?body=1" for 127.0.0.1 at 2014-11-27 13:21:59 +0100
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-11-27 13:21:59 +0100
+
+
+Started GET "/assets/visits.js?body=1" for 127.0.0.1 at 2014-11-27 13:21:59 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-11-27 13:21:59 +0100
+
+
+Started GET "/trips/index" for 127.0.0.1 at 2014-11-27 13:23:31 +0100
+Processing by TripsController#index as HTML
+  [1m[36mTrip Load (1.0ms)[0m  [1mSELECT "trips".* FROM "trips"[0m
+  Rendered trips/index.html.erb within layouts/application (2.0ms)
+  [1m[35mUser Load (0.0ms)[0m  SELECT  "users".* FROM "users"  WHERE "users"."id" = 3  ORDER BY "users"."id" ASC LIMIT 1
+Completed 200 OK in 223ms (Views: 222.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-11-27 13:23:31 +0100
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-11-27 13:23:32 +0100
+
+
+Started GET "/assets/trips.css?body=1" for 127.0.0.1 at 2014-11-27 13:23:32 +0100
+
+
+Started GET "/assets/visits.css?body=1" for 127.0.0.1 at 2014-11-27 13:23:32 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-11-27 13:23:32 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-27 13:23:32 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-27 13:23:32 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-11-27 13:23:32 +0100
+
+
+Started GET "/assets/trips.js?body=1" for 127.0.0.1 at 2014-11-27 13:23:32 +0100
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-11-27 13:23:32 +0100
+
+
+Started GET "/assets/visits.js?body=1" for 127.0.0.1 at 2014-11-27 13:23:32 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-11-27 13:23:32 +0100
+
+
+Started DELETE "/users/sign_out" for 127.0.0.1 at 2014-11-27 13:29:36 +0100
+Processing by Devise::SessionsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"jbXfKca0rlG2/fl6nt03bjUtdYULypChAoIgiABOPXw="}
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT  "users".* FROM "users"  WHERE "users"."id" = 3  ORDER BY "users"."id" ASC LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mcommit transaction[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 6ms (ActiveRecord: 1.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-11-27 13:29:36 +0100
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 190ms (Views: 189.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/trips.css?body=1" for 127.0.0.1 at 2014-11-27 13:29:37 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-11-27 13:29:37 +0100
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-11-27 13:29:37 +0100
+
+
+Started GET "/assets/visits.css?body=1" for 127.0.0.1 at 2014-11-27 13:29:37 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-11-27 13:29:37 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-11-27 13:29:37 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-11-27 13:29:37 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-11-27 13:29:37 +0100
+
+
+Started GET "/assets/trips.js?body=1" for 127.0.0.1 at 2014-11-27 13:29:37 +0100
+
+
+Started GET "/assets/visits.js?body=1" for 127.0.0.1 at 2014-11-27 13:29:37 +0100
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-11-27 13:29:37 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-11-27 13:29:37 +0100

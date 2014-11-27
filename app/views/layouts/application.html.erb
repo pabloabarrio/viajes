@@ -12,7 +12,7 @@
 		<h2>Welcome <%= current_user.name %>!</h2>
 			<%= link_to 'Cerrar sesión', destroy_user_session_path, method: 'delete' %>
 		<% else %>
-  			<h2>Nobody logued in</h2>
+  			<h2 class="head">Nobody logued in</h2>
 	<% end %>
 
 	</header>

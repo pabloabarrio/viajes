@@ -1,3 +1,22 @@
 // Place all the styles related to the trips controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+* {
+	box-sizing: border-box;
+}
+.fondoViajes {
+	width: 1240px;
+	height: 630px;
+	background-color: green;
+	text-align: center;
+	padding-top: 30px;
+}
+.trips {
+	color: red;
+	font-size: 40px;
+}
+.partidos {
+	color: white;
+	font-size: 30px;
+	list-style: none;
+}
